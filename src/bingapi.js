@@ -1,4 +1,4 @@
-const AUTHOR = 'Harry-zklcdc/go-proxy-bingai';
+const AUTHOR = 'Ha Ha';
 
 const SPILT = '\x1e';
 const BING_ORIGIN = 'https://www.bing.com';
